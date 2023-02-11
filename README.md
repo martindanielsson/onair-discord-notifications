@@ -1,2 +1,2 @@
-# onair-api-go
-A Go wrapper around the OnAir Airline Manager's API.
+# onair-discord-notifications
+Fetch onair data and send notifications to discord.
